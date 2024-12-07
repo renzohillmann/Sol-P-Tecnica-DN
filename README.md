@@ -14,8 +14,9 @@ Este proyecto estima los costos de dos equipos esenciales mediante una red neuro
 Instálalas con:
 ```bash
 pip install pandas numpy matplotlib scikit-learn
+```
 
-´´´
+
 
 ## **Instrucciones**
 1. Coloca los archivos `X.csv`, `Y.csv` y `Z.csv` en la misma carpeta que el script.
