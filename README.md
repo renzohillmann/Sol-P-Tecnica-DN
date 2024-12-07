@@ -32,7 +32,7 @@ pip install pandas numpy matplotlib scikit-learn
 
 ## **Resultados**
 1. **Archivo Procesado:** Contiene costos mensuales promedio de los equipos.
-2. **Gráficos:** Comparan predicciones y datos reales.
+2. **Gráficos:** Se analizan los datos iniciales, y se comparan predicciones obtenidas usando una red neuronal multicapas y datos reales.
 
 ---
 
