@@ -3,7 +3,6 @@
 ## **Descripción**
 Este proyecto estima los costos de dos equipos esenciales mediante una red neuronal de multicapas para un proyecto de construcción de 36 meses, basándose en los precios de las materias primas X, Y y Z.
 
----
 
 ## **Requisitos**
 - **Python** y las librerías:
@@ -16,6 +15,8 @@ Instálalas con:
 ```bash
 pip install pandas numpy matplotlib scikit-learn
 
+´´´
+
 ## **Instrucciones**
 1. Coloca los archivos `X.csv`, `Y.csv` y `Z.csv` en la misma carpeta que el script.
 2. Ejecuta el notebook en tu plataforma preferida: Anaconda (local), Colab (online), etc.
@@ -27,7 +28,6 @@ pip install pandas numpy matplotlib scikit-learn
    - Genera predicciones de costos futuros.
    - Muestra gráficos de resultados.
 
----
 
 ## **Resultados**
 1. **Archivo Procesado:** Contiene costos mensuales promedio de los equipos.
